@@ -1,11 +1,12 @@
 
 <h1 align="left">Hello there, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">I'm Caio Barbalho</h1>
+<br>
 
 - 👋 I'm a 25yo brazilian developer going through my second college degree
   - Currently in my second semester of System Analysis and Development
-  - Also a B.A in Cinema (or Film, but Cinema sounds cooler 😎)
     
-      - Can we just all agree that translating degrees and such is kinda wack? 
+  - Also a B.A in Cinema (or Film, but Cinema sounds cooler 😎)
+    - Can we just all agree that translating degrees and such is kinda wack? 
 
 <br>
 
@@ -25,7 +26,7 @@
  
 - 🔥 Hot Take: LOST is the best goddamn series in this whole world and I'll fight you about it
 
-- 🎲 Fun fact: I'm a die-hard TTRPG fan, watched all of Critical Role and DM for about 7 years now
+- 🎲 Fun fact: I'm a diehard TTRPG fan, watched all of Critical Role and DM for about 7 years now
    
 <br>
 
