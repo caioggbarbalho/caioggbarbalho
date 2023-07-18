@@ -30,7 +30,7 @@
 <br>
 
 - 📫 You can reach me at caiobarbalho@outlook.com
-- I'll try and updated this once in a while, so if my over the top attempt to be funny worked send me a message =)
+- I'll try and update this once in a while, so if my over the top attempt to be funny worked send me a message =)
 
 
 
