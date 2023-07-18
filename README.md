@@ -6,7 +6,7 @@
   - Currently in my second semester of System Analysis and Development
     
   - Also a B.A in Cinema (or Film, but Cinema sounds cooler 😎)
-    - Can we just all agree that translating degrees and such is kinda wack? 
+    - Can we all just agree that translating degrees and such is kinda wack? 
 
 <br>
 
